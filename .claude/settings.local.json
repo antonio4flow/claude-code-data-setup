@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p c:/Users/Kellyn/Desktop/claude.code.setup.01/.claude/skills/eda)",
+      "Bash(mkdir -p c:/Users/Kellyn/Desktop/claude.code.setup.01/.claude/skills/data-quality)",
+      "Bash(mkdir -p c:/Users/Kellyn/Desktop/claude.code.setup.01/.claude/agents)",
+      "Bash(mkdir -p c:/Users/Kellyn/Desktop/claude.code.setup.01/notebooks)",
+      "Bash(mkdir -p c:/Users/Kellyn/Desktop/claude.code.setup.01/data/raw)",
+      "Bash(py --version)",
+      "Bash(where python3:*)",
+      "Bash(where py:*)",
+      "Bash(python3 -c \"import pandas; print\\(''pandas ok''\\)\")",
+      "Bash(py -3 --version)",
+      "Bash(where python:*)",
+      "Read(//usr/**)",
+      "Read(//usr/local/**)"
+    ]
+  }
+}

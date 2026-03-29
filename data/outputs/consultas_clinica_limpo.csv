@@ -1,0 +1,29 @@
+id_consulta,id_paciente,nome_paciente,data_nascimento,data_consulta,medico,especialidade,diagnostico,valor_consulta,convenio,status_pagamento
+1001,P001,Ana Lima,1985-03-12,2024-01-15,Dr. Carlos Souza,Cardiologia,Hipertensão leve,320.00,Unimed,Pago
+1002,P002,Bruno Mendes,1990-07-22,2024-01-16,Dra. Fernanda Rocha,Clínica Geral,Gripe,150.00,Bradesco Saúde,Pago
+1003,P003,Carla Dias,1978-11-05,2024-01-16,Dr. Marcus Alves,Ortopedia,Tendinite,280.00,SulAmérica,Pendente
+1004,P004,Diego Ferreira,1995-04-30,,Dr. Carlos Souza,Cardiologia,Arritmia,450.00,Unimed,Pago
+1005,P005,Elaine Costa,1982-09-18,2024-01-18,Dra. Fernanda Rocha,Clínica Geral,,150.00,Particular,Pago
+1006,P006,Fábio Santos,1970-02-14,2024-01-19,Dr. Marcus Alves,Ortopedia,Lombalgia,280.00,Bradesco Saúde,Pago
+1008,P007,Gabriela Nunes,2001-06-25,2024-01-20,Dra. Juliana Park,Dermatologia,Acne,200.00,SulAmérica,Cancelado
+1009,P008,Henrique Barros,1968-12-01,2024-01-21,Dr. Carlos Souza,Cardiologia,Insuficiência cardíaca,520.00,Não informado,Pendente
+1010,P009,Isabela Ramos,1993-08-17,2024-01-22,Dra. Fernanda Rocha,Clínica Geral,Diabetes tipo 2,150.00,Unimed,Pago
+1011,P010,João Victor,1988-05-09,2024-01-23,Dr. Marcus Alves,Ortopedia,Fratura,380.00,Bradesco Saúde,Pago
+1012,P011,Karen Oliveira,2005-01-30,2024-01-23,Dra. Juliana Park,Dermatologia,Eczema,200.00,Particular,Pago
+1013,P012,Lucas Teixeira,1975-10-22,2024-01-24,Dr. Carlos Souza,Cardiologia,Hipertensão grave,520.00,SulAmérica,Pago
+1014,P013,Mariana Gomes,1999-03-15,2024-01-15,Dra. Fernanda Rocha,Clínica Geral,Ansiedade,150.00,Unimed,Pago
+1015,P014,Nelson Prado,1962-07-08,2024-01-25,Dr. Marcus Alves,Ortopedia,Artrose,280.00,Bradesco Saúde,Pendente
+1016,P015,Olivia Campos,1987-02-19,2024-01-26,Dra. Juliana Park,Dermatologia,Psoríase,200.00,SulAmérica,Pago
+1017,P016,Paulo Ribeiro,1955-11-03,2024-01-26,Dr. Carlos Souza,Cardiologia,,450.00,Particular,Pago
+1018,P017,Quezia Matos,2000-04-27,2024-01-27,Dra. Fernanda Rocha,Clínica Geral,Rinite,150.00,Unimed,Cancelado
+1019,P018,Rafael Lima,1991-09-14,2024-01-28,Dr. Marcus Alves,Ortopedia,Lesão meniscal,380.00,Não informado,Pago
+1020,P019,Sabrina Torres,1984-06-06,2024-01-28,Dra. Juliana Park,Dermatologia,Dermatite,200.00,Bradesco Saúde,Pago
+1021,P020,Thiago Neves,1979-01-21,2024-01-29,Dr. Carlos Souza,Cardiologia,Angina,520.00,SulAmérica,Pago
+1023,P021,Ursula Freitas,1996-08-30,2024-01-30,Dra. Juliana Park,Dermatologia,Alergia,200.00,Unimed,Pendente
+1024,P022,Vitor Cardoso,1973-12-17,2024-01-30,Dr. Marcus Alves,Ortopedia,Bursite,280.00,Particular,Pago
+1025,P023,Wanderley Cruz,1960-05-25,2024-01-31,Dr. Carlos Souza,Cardiologia,Infarto prévio,650.00,SulAmérica,Pago
+1026,P024,Ximena Lopes,2003-02-11,2024-02-01,Dra. Fernanda Rocha,Clínica Geral,Gastrite,150.00,Bradesco Saúde,Pago
+1027,P025,Yuri Batista,1989-07-04,2024-02-01,Dra. Juliana Park,Dermatologia,,200.00,Unimed,Pago
+1028,P026,Zara Monteiro,1994-10-09,2024-02-02,Dr. Marcus Alves,Ortopedia,Epicondilite,280.00,SulAmérica,Cancelado
+1029,P027,Alice Borges,1981-03-28,2024-02-03,Dr. Carlos Souza,Cardiologia,Hipertensão leve,320.00,Particular,Pago
+1030,P028,Bernardo Cunha,1967-08-15,2024-02-03,Dra. Fernanda Rocha,Clínica Geral,Hipotireoidismo,150.00,Unimed,Pendente
